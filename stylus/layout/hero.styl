@@ -1,5 +1,32 @@
+  @media screen and (max-width breakpoints.sm)
+    .hero-flex
+      flex-direction column
+    
 .hero
   margin 5rem 0
 
   &__description
     max-width 50ch
+
+  h1
+    font-family: Georgia, 'Times New Roman', Times, serif
+ 
+.hero-flex
+  display flex
+  align-items center
+  justify-content space-between
+
+  & .hero__updates
+    max-width 60ch
+    margin 0.75rem 0
+
+  & .hero__subheader {
+    font-size 1.25em;
+    font-weight bold;
+    }
+
+  & .text-bold {
+    font-weight 600
+    }
+
+

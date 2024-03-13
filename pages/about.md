@@ -1,7 +1,7 @@
 ---
 title: Is this another game blog?
 description: Why write about games?
-layout: layouts/post.njk
+layout: layouts/about.njk
 hideTagsList: true
 eleventyNavigation:
   key: About
@@ -28,10 +28,12 @@ On hour-long commutes to school and 12-hour flights home, achieving 100% on Pers
 
 Many years on, I’ve had the privilege of playing on the Xbox, Playstation, Vita, Gameboys, Switch and on mobile. While my preference for RPGs and puzzle games remains, my love of games in general continues to be a joy that won’t diminish.
 
-Note: I don’t enjoy horror or sports games so it’s unlikely I’ll cover them here.
+**Sibylle Writes Games** is a love letter to the joy of gaming through the eyes of a user experience designer.
 
 ### What to expect:
 
-- **Discover Hour:** 1 hour first-time let’s play case studies
+- **Discover Hour:** UI thoughts after playing a new game for 1 hour
 - **Old Game, New Tricks:** Comparisons between base game versus DLC content
 - **Core Memory Unlocked:** A retrospective study on games I’ve finished and how they’ve affected me
+
+_Note:_ I don’t enjoy horror or sports games so it’s unlikely I’ll cover them here.

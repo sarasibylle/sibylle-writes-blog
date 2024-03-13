@@ -1,8 +1,10 @@
 {% set navPages = collections.all | eleventyNavigation %}
 <nav class="navbar">
   <div class="navbar__inner">
-    <a class="navbar__logo" href="{{ '/' | url }}">{{ site.meta.title }}</a>
-
+    <div class="logo-wrapper">
+      <img src="{{ '/static/img/favicon-60.svg' | url }}" alt="" class="nav-logo">
+      <a class="navbar__logo" href="{{ '/' | url }}">{{ site.meta.title }}</a>
+    </div>
     <div class="navbar__mobile-options">
       <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
         <img src="{{ '/static/img/moon.svg' | url }}" alt="">

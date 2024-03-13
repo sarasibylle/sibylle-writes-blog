@@ -5,7 +5,7 @@ layout: layouts/base.njk
 permalink: /{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}
 pagination:
   data: collections.post
-  size: 6
+  size: 10
   alias: posts
   reverse: true
 eleventyNavigation:
@@ -23,17 +23,43 @@ eleventyNavigation:
         {{ site.meta.title }}
       {% endif %}
     </h1>
-    <p class="hero__description">
-      {% if site.hero.description %}
-        {{ site.hero.description }}
-      {% else %}
-        {{ site.meta.description }}
-      {% endif %}
-    </p>
+      <div class="hero-flex">
+      <p class="hero__description">
+        {% if site.hero.description %}
+          {{ site.hero.description }}
+        {% else %}
+          {{ site.meta.description }}
+        {% endif %}
+      </p>
+
+      <section class="hero__updates">
+        <span class="hero__subheader">
+          🎮 Live
+        </span>
+        <br>
+      <p>
+          <span class="text-bold">Core Memory Pt 1</span> | The Legend Of Zelda: Tears of the Kingdom
+      </p>
+       <br>
+      <span class="hero__subheader">
+         🕹️ Waiting Room (ETA Mar-Apr '24)
+      </span>
+        <br>
+      <p>
+          <span class="text-bold">Discover Hour</span> | Chants of Sennar
+      </p> 
+      <p>
+          <span class="text-bold">Discover Hour</span> | Dave the Diver
+      </p> 
+            <p>
+          <span class="text-bold">Core Memory Pt 2</span> | The Legend Of Zelda: Tears of the Kingdom
+      </p> 
+      </section>
+    </div>
   </div>
 
   <h2 class="section-title">
-    Latest Posts
+    ✨ Latest Case Studies
     {%- if pagination.pageNumber != 0 %} - Page {{ pagination.pageNumber + 1 }}{% endif %}
   </h2>
   {% include "components/postslist.njk" %}

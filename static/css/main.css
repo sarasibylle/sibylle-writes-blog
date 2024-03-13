@@ -1,7 +1,7 @@
 body {
   margin: 0;
   line-height: 1.5;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "Open Sans", "Segoe UI", Helvetica, Arial, sans-serif;
   color: #333;
   background-color: #fff;
   min-height: 100vh;
@@ -10,11 +10,16 @@ body {
 }
 body.dark {
   color: #fff;
-  background-color: #333;
+  background-color: #0f0f0f;
 }
 img {
   width: 100%;
   height: auto;
+}
+.nav-logo {
+  height: 100%;
+  max-height: 40px;
+  width: auto;
 }
 h1,
 h2,
@@ -25,6 +30,9 @@ h6,
 p {
   margin: 0.75rem 0;
   font-weight: 400;
+}
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h1 {
   font-size: 2.027rem;
@@ -83,11 +91,11 @@ small {
   }
 }
 a {
-  color: #7300e6;
+  color: #007a8e;
   text-decoration: none;
 }
 body.dark a {
-  color: #c9f;
+  color: #00ccaf;
 }
 a:hover {
   text-decoration: underline;
@@ -100,7 +108,7 @@ hr {
   margin: 0 auto;
   padding: 1rem;
   padding-bottom: 2.5rem;
-  max-width: 1024px;
+  max-width: 1280px;
   width: calc(100% - 2rem);
 }
 .container-sm {
@@ -114,13 +122,37 @@ hr {
   background: #f2f2f2;
 }
 body.dark .footer {
-  background: #3d3d3d;
+  background: #1b1b1b;
+}
+@media screen and (max-width: 640px) {
+  .hero-flex {
+    flex-direction: column;
+  }
 }
 .hero {
   margin: 5rem 0;
 }
 .hero__description {
   max-width: 50ch;
+}
+.hero h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.hero-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.hero-flex .hero__updates {
+  max-width: 60ch;
+  margin: 0.75rem 0;
+}
+.hero-flex .hero__subheader {
+  font-size: 1.25em;
+  font-weight: bold;
+}
+.text-bold {
+  font-weight: 600;
 }
 .navbar {
   padding: 1rem;
@@ -134,7 +166,7 @@ body.dark .navbar {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  max-width: 1024px;
+  max-width: 1280px;
   margin: 0 auto;
 }
 .navbar__links {
@@ -169,7 +201,7 @@ body.dark .navbar {
   background-color: #f2f2f2;
 }
 body.dark .navbar__mobile-link:hover {
-  background-color: #3d3d3d;
+  background-color: #1b1b1b;
 }
 .navbar__mobile-options {
   display: flex;
@@ -192,7 +224,7 @@ body.dark .navbar__mobile-link:hover {
   background-color: #f2f2f2;
 }
 body.dark .navbar__button:hover {
-  background-color: #3d3d3d;
+  background-color: #1b1b1b;
 }
 body.dark .navbar__hamburger > svg {
   fill: #fff;
@@ -202,9 +234,14 @@ body.dark .navbar__hamburger > svg {
   padding: 0.75rem;
 }
 .navbar__logo {
+  padding: 0 1em;
   display: inline-block;
   border-radius: 0.25rem;
   font-weight: bold;
+}
+.navbar .logo-wrapper {
+  display: flex;
+  align-items: center;
 }
 .section-title {
   font-size: 1rem;
