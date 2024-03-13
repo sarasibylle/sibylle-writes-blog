@@ -1,12 +1,12 @@
 module.exports = {
   meta: {
     title: "Sibylle Writes Games",
-    description: "An ongoing discussion about game UI that interests a non-American, queer person of colour. All perspectives and opinions are my own.",
+    description: "A love letter to gaming where a non-American, queer person of colour discusses game UI. All perspectives and opinions are my own.",
     lang: "en",
     siteUrl: "https://sibyllewritesgames.com/",
   },
   feed: { // used in feed.xml.njk
-    subtitle: "Lorem ipsum dolor sit amet consecuteor",
+    subtitle: "Case study breakdowns of game interfaces by an atypical UX designer and gamer",
     filename: "atom.xml",
     path: "/atom.xml",
     id: "sibyllewritesgames.com/",
@@ -15,6 +15,6 @@ module.exports = {
   },
   hero: { // used in hero section of main page ie. index.html.njk
     title: "Sibylle Writes Games",
-    description: "Sibylle Writes Games is an ongoing discussion about game UI that interests a non-American, queer person of colour. Not that it should matter in today’s age, but it still does. All perspectives and opinions are my own."
+    description: "Hi there! Welcome to my love letter to gaming where a non-American, queer person of colour discusses game UI. All perspectives and opinions are my own."
   }
 }
