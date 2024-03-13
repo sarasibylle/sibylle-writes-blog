@@ -1,20 +1,20 @@
 module.exports = {
   meta: {
-    title: "My Purple Blog",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    title: "Sibylle Writes Games",
+    description: "An ongoing discussion about game UI that interests a non-American, queer person of colour. All perspectives and opinions are my own.",
     lang: "en",
-    siteUrl: "https://example.com/",
+    siteUrl: "https://sibyllewritesgames.com/",
   },
   feed: { // used in feed.xml.njk
     subtitle: "Lorem ipsum dolor sit amet consecuteor",
     filename: "atom.xml",
     path: "/atom.xml",
-    id: "https://example.com/",
-    authorName: "John Doe",
-    authorEmail: "johndoe@example.com"
+    id: "sibyllewritesgames.com/",
+    authorName: "Sara Sibylle",
+    authorEmail: "sara.sibylle@gmail.com"
   },
   hero: { // used in hero section of main page ie. index.html.njk
-    title: "Welcome to my purple blog",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores accusantium deserunt odio esse."
+    title: "Sibylle Writes Games",
+    description: "Sibylle Writes Games is an ongoing discussion about game UI that interests a non-American, queer person of colour. Not that it should matter in today’s age, but it still does. All perspectives and opinions are my own."
   }
 }

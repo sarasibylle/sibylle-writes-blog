@@ -1,6 +1,6 @@
 ---
-title: About Me
-description: All about me in this page
+title: Is this another game blog?
+description: Why write about games?
 layout: layouts/post.njk
 hideTagsList: true
 eleventyNavigation:
@@ -8,25 +8,30 @@ eleventyNavigation:
   weight: 2
 ---
 
+## Nope.
 
-consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id nibh tortor id aliquet lectus. Sit amet consectetur adipiscing elit duis. A diam maecenas sed enim ut. Dolor sit amet consectetur adipiscing elit pellentesque habitant. Gravida neque convallis a cras semper auctor. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Dolor sed viverra ipsum nunc aliquet bibendum. Netus et malesuada fames ac turpis egestas sed tempus. Nunc sed augue lacus viverra. Potenti nullam ac tortor vitae. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. 
+### I’ll be honest; I’m not a “typical gamer.” 
 
-## Erat pellentesque adipiscing commodo elit at imperdiet.
+Having existed between Western and Asian mindsets all my life, playing games was my escape from difficult situations. 
 
-Ultrices in iaculis nunc sed augue lacus viverra vitae. Porttitor leo a diam sollicitudin. Nunc congue nisi vitae suscipit. Odio morbi quis commodo odio aenean sed adipiscing diam donec. 
+I grew up poor in one of the richest countries in Asia. When I was 9, I convinced my father to put half of his monthly income on a Nintendo Gameboy Colour so I could play Pokemon Blue— my first ever video game that wasn’t Tetris on his PalmPilot.
 
-### Urna neque viverra justo nec ultrices. 
+My only other interaction was when I was dropped off at my aunt’s to be babysit. My older cousins were addicted to Counter-Strike. I, a precocious young girl among a family of boys, watched them hurl insults at each other through foam headphones while tapping their mice at furious speeds to shoot down other players.
 
-Vitae aliquet nec ullamcorper sit amet risus. Neque viverra justo nec ultrices dui sapien eget mi. At consectetur lorem donec massa sapien faucibus et molestie. Mauris cursus mattis molestie a. Risus nec feugiat in fermentum posuere urna nec. Egestas sed sed risus pretium. 
+It wasn’t until I enrolled into university that arcades, LAN cafes and MMOs opened up to me. In much of Asia, it was cheaper to join your friends in collaborative gaming at such places instead of staying at home where the dial-up internet was both sketchy and costly. And so, me and a group of 4-5 others would spend hours after class to tag team in Payday, carry out levelling raids in MapleStory, or scream at each other to construct additional pylons in Starcraft. In all of them, I was either a medic or ranger, and ridiculously terrible at both.
 
-#### quam vulputate dignissim suspendisse in.
+After being able to pay for it from working part-time during university, the first console I bought was the Xbox 360 when I was 18. At that moment, a whole world of machismo and excitement materialized at my fingertips. 
 
-Nulla aliquet porttitor lacus luctus accumsan tortor. Malesuada pellentesque elit eget gravida cum sociis natoque. Amet luctus venenatis lectus magna fringilla. Accumsan tortor posuere ac ut consequat semper. Varius duis at consectetur lorem. Condimentum id venenatis a condimentum. Vulputate ut pharetra sit amet. Dolor sit amet consectetur adipiscing. Odio eu feugiat pretium nibh ipsum consequat nisl. Amet cursus sit amet dictum sit amet justo donec. Nibh sed pulvinar proin gravida hendrerit. Eget egestas purus viverra accumsan in nisl nisi. Arcu risus quis varius quam quisque id diam vel. Ut tortor pretium.
+I remember the rush of driving at (virtually) breakneck speeds in GTA and Saint’s Row, randomly jumping out of my car on the highway, running up to another car, throwing the shocked driver out, stealing their car, and driving backwards to ram into the police after me. I remember how badass I felt finishing Max Payne with my then-partner on hard mode. The confidence air-strumming AC/DC’s “Thunderstruck” on Guitar Hero gave me. The hilarity of crashing Portal when I bounced Chell through portals to perfectly get at a ledge an obsessive amount of times.
 
-##### viverra suspendisse potenti nullam ac tortor.
+On hour-long commutes to school and 12-hour flights home, achieving 100% on Persona and Pokemon felt like I “isekai”-ed as a hero to pass the time. My younger precocious self would smile seeing me no longer lose to the group of rowdy boys at a Pokemon tournament. 
 
-Facilisis gravida neque convallis a cras semper auctor. Turpis massa tincidunt dui ut ornare lectus. Massa eget egestas purus viverra accumsan in nisl nisi scelerisque. Feugiat vivamus at augue eget arcu dictum. Posuere urna nec tincidunt praesent. Ipsum consequat nisl vel pretium lectus quam id leo in. Nulla malesuada pellentesque elit eget gravida cum. Vitae purus faucibus ornare suspendisse sed nisi lacus sed viverra. Mattis aliquam faucibus purus in massa. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl. Odio ut sem nulla pharetra diam sit amet nisl. Penatibus et magnis dis parturient montes nascetur ridiculus mus. Odio eu feugiat pretium nibh ipsum consequat nisl vel. Risus nullam eget felis eget nunc lobortis mattis. Lectus magna fringilla urna porttitor rhoncus dolor. Lorem ipsum dolor sit amet 
+Many years on, I’ve had the privilege of playing on the Xbox, Playstation, Vita, Gameboys, Switch and on mobile. While my preference for RPGs and puzzle games remains, my love of games in general continues to be a joy that won’t diminish.
 
-###### consectetur adipiscing elit duis.
+Note: I don’t enjoy horror or sports games so it’s unlikely I’ll cover them here.
 
-Molestie a iaculis at erat pellentesque adipiscing commodo. Ullamcorper velit sed ullamcorper morbi. Adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum. Integer vitae justo eget magna fermentum iaculis. Odio tempor orci dapibus ultrices in iaculis nunc. Purus sit amet luctus venenatis lectus magna fringilla urna. Iaculis nunc sed augue lacus viverra vitae congue eu. Id velit ut tortor pretium viverra suspendisse. Tellus elementum sagittis vitae et leo. Nulla malesuada pellentesque elit eget gravida cum sociis. Eget aliquet nibh praesent tristique magna sit amet. Purus sit amet volutpat consequat mauris nunc congue nisi. Sit amet aliquam id diam maecenas ultricies. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Quis ipsum suspendisse ultrices gravida dictum fusce. Ut consequat semper viverra nam libero justo laoreet. Iaculis at erat pellentesque adipiscing commodo. Risus nec feugiat in fermentum posuere urna nec tincidunt praesent.
+### What to expect:
+
+- **Discover Hour:** 1 hour first-time let’s play case studies
+- **Old Game, New Tricks:** Comparisons between base game versus DLC content
+- **Core Memory Unlocked:** A retrospective study on games I’ve finished and how they’ve affected me
