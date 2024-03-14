@@ -1,6 +1,6 @@
 ---
 title: Core Memory Unlocked 1 - The Legend Of Zelda - Tears of the Kingdom
-date: 2024-03-31
+date: 2024-03-13
 description: Where I finish a Zelda game for the first time.
 tags:
   - Core Memory Unlocked
