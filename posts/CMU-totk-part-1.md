@@ -314,3 +314,21 @@ Much like filling out the Hyrule Compendium, there’s so much game in _Zelda_ t
 
 Nonetheless, there is so much more to say on how the user interface and story influence each other.
 Interested? Join me for Part 2!
+
+-----
+
+<br>
+
+#### Tl;dr:
+
+- Tears of the Kingdom’s immersion was effective enough to make me spend months finishing it as my first Zelda game.
+
+- If you’re a player who has a knack for aligning right angles, Ultrahand is a Korok ~~killing~~ saving creator’s dream. For the rest of us with two left hands, it’s an exercise in patience and blood moon hunting. Don’t get me wrong, it’s pretty great.
+
+- The sound design continues to be some of the best game music around. Brb while I go on a ‘vacay’ by playing 10 hours of Lurelin Village.
+
+- Inventory and combat is easy enough for a newbie like me, but I never mastered perfect dodge/flurry rush. Fusing materials to arrows takes too many precious seconds. Still beat the game though.
+
+- **A** is a powerful button that can either mean landing the finishing blow on a boss monster or causing Tulin to blow away all your loot off a cliff. Can I spam A again to demand an explanation from him?
+
+
